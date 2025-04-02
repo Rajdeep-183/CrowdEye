@@ -1,4 +1,4 @@
-# Stampede Prediction using YOLOv8
+# CrowdEye
 
 ## 🚀 Overview
 This project leverages **YOLOv8** for real-time human detection and **stampede prediction** based on crowd density. By analyzing video frames, it detects individuals and determines if the **crowd size exceeds a defined threshold**, thereby predicting a potential stampede risk.
