@@ -47,7 +47,7 @@ from ultralytics import YOLO
 model = YOLO("yolov8n.pt")  # Load YOLOv8 Nano model (fastest)
 
 # Open a video file or webcam (use 0 for webcam)
-video_path = "test.mp4"  # Change to 0 for webcam
+video_path = "Enter the directory of data or 0"  # Change to 0 for webcam
 cap = cv2.VideoCapture(video_path)
 
 # Define the crowd threshold for stampede prediction
