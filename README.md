@@ -64,22 +64,6 @@ def predict_stampede(people_count):
 
 ---
 
-## 📌 Running the Stampede Prediction on Video
-To analyze a **video** or **webcam feed**, run:
-```python
-python stampede_detection.py
-```
-Press **'Q'** to exit the video window.
-
----
-
-## 📷 Sample Output
-🔹 **People Count: 18**  
-🔹 **Stampede Risk: HIGH (⚠️ Red Alert)**  
-🔹 Real-time detection bounding boxes drawn around humans
-
----
-
 ## 📩 Future Enhancements
 🔹 Integrate an **alert system** (sound or email notifications)  
 🔹 Improve accuracy using **YOLOv8m/l models** for better detection  
